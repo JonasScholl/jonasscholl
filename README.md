@@ -49,9 +49,9 @@ I'm proficient in DevOps, Cloud Technologies, Python, TypeScript and Software Ar
     <img src="https://img.shields.io/badge/GitHub_Actions-288CFF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
     <img src="https://img.shields.io/badge/Argo_CD-EF7550?style=for-the-badge&logo=argo&logoColor=white" alt="Argo CD"/>
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+    <img src="https://img.shields.io/badge/NestJS-DB224D?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
     <img src="https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=nextjs&logoColor=61DAFB" alt="Next.js"/>
-    <img src="https://img.shields.io/badge/NestJS-DB224D?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
 </div>
 
 <br />
