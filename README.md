@@ -32,7 +32,7 @@ I'm a passionate Software Engineer and Co-Founder of [Tebuto](https://tebuto.de?
 <br />
 <br />
 
-## 💬 Ask me about anything related to these topics
+## 💬 Ask me anything related to these topics
 
 I'm proficient in DevOps, Cloud Technologies, Python, TypeScript and Software Architecture and happy to answer questions or do research if I'm clueless.
 
