@@ -36,6 +36,8 @@ I'm a passionate Software Engineer and Co-Founder of [Tebuto](https://tebuto.de?
 
 I'm proficient in DevOps, Cloud Technologies, Python, TypeScript and Software Architecture and happy to answer questions or do research if I'm clueless.
 
+<br />
+
 <div align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -56,6 +58,10 @@ I'm proficient in DevOps, Cloud Technologies, Python, TypeScript and Software Ar
 <br />
 
 ## 🌐 Connect with Me
+
+To connect with me, you can find my professional profile and contact details on LinkedIn, or contact me via E-Mail. Feel free to reach out for collaborations, opportunities, or just to exchange ideas about the latest in software development and technology. Let's innovate together!
+
+<br />
 
 <div align="center">
     <a href="mailto:jonas@scholl.tech" style="text-decoration: none !important">
