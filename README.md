@@ -26,7 +26,7 @@ I'm a passionate Software Engineer and Co-Founder of [Tebuto](https://tebuto.de?
 <br />
 
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jonasscholl&theme=github_dark" alt="Jonas' GitHub Activity"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jonasscholl&theme=nord_dark" alt="Jonas' GitHub Activity"/>
 </div>
 
 <br />
