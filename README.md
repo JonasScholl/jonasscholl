@@ -20,7 +20,9 @@ I'm a passionate Software Engineer and Co-Founder of [Tebuto](https://tebuto.de?
 
 ## 👨🏻‍💻 I’m currently working on
 
-- [Tebuto](https://tebuto.de?utm_source=github&utm_medium=social&utm_campaign=profile-link): A SaaS for psychologists to manage online-appointments with their clients
+- [Tebuto](https://tebuto.de?utm_source=github&utm_medium=social&utm_campaign=profile-link): A Practice Management SaaS for psychologists
+- [Talentsurf](https://talentsurf.de?utm_source=github&utm_medium=social&utm_campaign=profile-link): Modern application platform for German apprenticeship programs
+- [Artus Engineering](https://artus-engineering.de?utm_source=github&utm_medium=social&utm_campaign=profile-link): Various projects and consulting for many customers
 
 <br />
 <br />
