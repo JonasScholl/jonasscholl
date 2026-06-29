@@ -23,6 +23,8 @@ I'm a passionate Software Engineer and Co-Founder of [Artus Engineering](https:/
 - [Tebuto](https://tebuto.de?utm_source=github&utm_medium=social&utm_campaign=profile-link): A Practice Management SaaS for psychologists
 - [Talentsurf](https://talentsurf.de?utm_source=github&utm_medium=social&utm_campaign=profile-link): Modern application platform for German apprenticeship programs
 - [Artus Engineering](https://artus-engineering.de?utm_source=github&utm_medium=social&utm_campaign=profile-link): Various projects and consulting for many customers
+- [Hitster Card Generator](https://github.com/JonasScholl/hitster): Generate cards for the Hitster game from a Apple Music or Spotify Playlist
+- [Event Ticket Generator](https://ticket-generator.scholl.tech): Generate custom printouts of event tickets for keepsakes
 
 <br />
 <br />
