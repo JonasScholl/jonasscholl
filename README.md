@@ -4,7 +4,7 @@
     </h1>
 </div>
 
-I'm a passionate Software Engineer and Co-Founder of [Tebuto](https://tebuto.de?utm_source=github&utm_medium=social&utm_campaign=profile-link). I blog from time-to-time on technical topics at [Code Specialist](https://code-specialist.com). You may also find our videos on [YouTube](https://www.youtube.com/channel/UCjdmChf65sGfOqWoygzBTyQ). I'm always happy to extend my network, feel free to send me a request on [LinkedIn](https://www.linkedin.com/in/jonas-scholl-4a1047205/)!
+I'm a passionate Software Engineer and Co-Founder of [Artus Engineering](https://artus-engineering.de?utm_source=github&utm_medium=social&utm_campaign=profile-link) and [Tebuto](https://tebuto.de?utm_source=github&utm_medium=social&utm_campaign=profile-link). I'm always happy to extend my network, feel free to send me a request on [LinkedIn](https://www.linkedin.com/in/jonas-scholl-4a1047205/)!
 
 <br />
 
